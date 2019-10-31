@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+<h1 style= "color:dodgerblue">DuE fRIdAY foR onLy uS</h1>
+
+<pre style= "color:yellow"> 
+Well, this class is such a meme.
+We are so far ahead in our class,
+but our teacher just makes us move on.
+So I will make the absolute worst ever product known to man.
+Here is a tribute to Kermit
+</pre>
+
+<button class="button" onClick="window.location.href='https://muppets.disney.com/';"> <span class="icon">Don’t Click</span> </button>
+<img src="https://i.ytimg.com/vi/CLQbuH3so18/hqdefault.jpg" alt="Kermit MEME" width="700" height="500">
+<img src="https://www.shitpostbot.com/img/sourceimages/kermit-hanging-out-57cb326b0d15a.jpeg" alt="Kermit MEME" width="700" height="500">
+</body>
+</html>
